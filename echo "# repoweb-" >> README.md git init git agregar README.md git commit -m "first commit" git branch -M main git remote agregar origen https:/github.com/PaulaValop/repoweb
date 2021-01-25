@@ -1,7 +1,12 @@
 <body>
-<div style='text-align:center'><h1 style="border:2px solid Black;">Mar</h1>
-<div style='text-align:center'><h1 style="border:2px solid Black;">Terra</h1>
-<div style='text-align:center'><h1 style="border:2px solid Black;">Aire</h1>
+<div style='text-align:center'>
+<table style="width:100%">
+  <tr>
+<th><h1 style="border:2px solid Black;">Mar</h1></th>
+<th><h1 style="border:2px solid Black;">Terra</h1></th>
+<th><h1 style="border:2px solid Black;">Aire</h1></th>
+  </tr>
+
 <div style='text-align:center'><img src="tierra-mar-y-aire3.jpg" alt="Imatge Mar, Terra i Aire" width="650" height="600">
 </body>
 
