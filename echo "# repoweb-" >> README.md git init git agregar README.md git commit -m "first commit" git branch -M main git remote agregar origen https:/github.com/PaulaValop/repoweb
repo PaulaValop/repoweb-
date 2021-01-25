@@ -1,5 +1,6 @@
 <body>
-<h1>Mar</h1>
-<h1>Terra</h1>
-<h1>Aire</h1>
-<img src="tierra-mar-y-aire3.jpg" alt="Imatge Mar, Terra i Aire" width="300" height="250">
+<div style='text-align:center'><h1>Mar</h1> 
+<div style='text-align:center'><h1>Terra</h1>
+<div style='text-align:center'><h1>Aire</h1>
+<div style='text-align:center'><img src="tierra-mar-y-aire3.jpg" alt="Imatge Mar, Terra i Aire" width="650" height="600">
+</body>
